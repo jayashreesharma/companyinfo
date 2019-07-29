@@ -37,6 +37,3 @@ class Employee(models.Model):
         db_table = "Employee_Info"
 
 #e1 = Employee(employeeEmail = "emp1@gmail.com", employeename = "meee", employeecontact = 12345, employeeage = 23, empaddress = "Pusad")
-print("good morning")
-print('change')
-print('change through test')
