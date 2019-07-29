@@ -5,5 +5,5 @@ admin.site.register(Company)
 admin.site.register(Employee)
 admin.site.register(Address)
 
-
-print('inside admin dev2 change')
+print('inside admin ori')
+print('change by dev2')
