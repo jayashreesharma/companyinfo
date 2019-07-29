@@ -5,4 +5,4 @@ admin.site.register(Company)
 admin.site.register(Employee)
 admin.site.register(Address)
 
-
+print('inside admin ori')
