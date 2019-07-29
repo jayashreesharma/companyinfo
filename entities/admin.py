@@ -6,3 +6,4 @@ admin.site.register(Employee)
 admin.site.register(Address)
 
 
+print('inside admin dev2 change')
